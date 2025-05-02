@@ -6,7 +6,7 @@ Welcome to the Kunai Community Hub! This is a place for users to share their arc
 
 1. Fork this repository.
 2. Add a new markdown file in the `contributions` folder with a descriptive name following the format `YYYY-MM-DD-title-of-your-contribution.md`.
-3. Use the [contribution template](contribution-template.md) to structure your guide.
+3. Use the [contribution template](contributions/YYYY-MM-DD-contribution-template.md) to structure your guide.
 4. Write your guide, tips, or any information you want to share.
 5. Submit a pull request.
 

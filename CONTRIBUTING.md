@@ -9,7 +9,7 @@ Thank you for considering contributing to the Kunai Community Hub! Here are some
 
 2. **Add Your Contribution:**
    - Add a new markdown file in the `contributions` folder with a descriptive name following the format `YYYY-MM-DD-title-of-your-contribution.md`.
-   - Use the [contribution template](contribution-template.md) to structure your guide.
+   - Use the [contribution template](contributions/YYYY-MM-DD-contribution-template.md) to structure your guide.
    - Write your guide, tips, or any information you want to share.
 
 3. **Commit Your Changes:**
